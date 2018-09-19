@@ -1,6 +1,11 @@
 package com.shanghai.springboot.domain;
 
 
+import lombok.Getter;
+import lombok.Setter;
+
+@Setter
+@Getter
 public class Tuser {
     // 主键
     private Long id;
@@ -11,4 +16,7 @@ public class Tuser {
     // 姓名
     private String name;
 //此处省略getter和setter方法 .. ..
+
+
+
 }
