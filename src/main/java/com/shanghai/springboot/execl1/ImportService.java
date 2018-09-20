@@ -54,7 +54,7 @@ public class ImportService {
                 list.add(li);
             }
         }
-        work.close();
+//        work.close();
         return list;
     }
     //判断excel文件的格式

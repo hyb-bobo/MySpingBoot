@@ -17,6 +17,10 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="java" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.poi:poi-examples:3.9" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.poi:poi-scratchpad:3.9" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.poi:poi:4.0.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-collections4:4.2" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-web:2.0.2.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter:2.0.2.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-logging:2.0.2.RELEASE" level="project" />
@@ -113,13 +117,12 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-orm:5.0.6.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-aspects:5.0.6.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.apache.poi:poi-examples:3.9" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.poi:poi:3.9" level="project" />
+    <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.11" level="project" />
     <orderEntry type="library" name="Maven: org.apache.poi:poi-scratchpad:3.9" level="project" />
     <orderEntry type="library" name="Maven: org.apache.poi:poi-ooxml:3.9" level="project" />
     <orderEntry type="library" name="Maven: org.apache.poi:poi-ooxml-schemas:3.9" level="project" />
     <orderEntry type="library" name="Maven: org.apache.xmlbeans:xmlbeans:2.3.0" level="project" />
     <orderEntry type="library" name="Maven: stax:stax-api:1.0.1" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.poi:poi:4.0.0" level="project" />
-    <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.11" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.commons:commons-collections4:4.2" level="project" />
   </component>
 </module>
