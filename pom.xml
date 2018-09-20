@@ -70,20 +70,17 @@
         <!--poi-->
         <dependency>
             <groupId>org.apache.poi</groupId>
-            <artifactId>poi</artifactId>
-            <version>3.9</version>
-        </dependency>
-
-        <dependency>
-            <groupId>org.apache.poi</groupId>
             <artifactId>poi-examples</artifactId>
             <version>3.9</version>
         </dependency>
-        <dependency>
-            <groupId>org.junit.jupiter</groupId>
-            <artifactId>junit-jupiter-api</artifactId>
-            <version>RELEASE</version>
-        </dependency>
+
+        <!--<dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi</artifactId>
+            <version>3.9</version>
+        </dependency>-->
+
+
 
         <dependency>
             <groupId>org.apache.poi</groupId>
@@ -91,11 +88,11 @@
             <version>RELEASE</version>
         </dependency>
 
-        <dependency>
+        <!--<dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi-ooxml</artifactId>
             <version>RELEASE</version>
-        </dependency>
+        </dependency>-->
 
 
     </dependencies>
