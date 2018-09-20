@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../idxwrd-common-0.0.1-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../excel-util-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src/main/java" />
+      <root url="file://$PROJECT_DIR$/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
